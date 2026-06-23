@@ -33,7 +33,7 @@ These two files are provided at the repository root and are read directly by "01
 
 ## Step 1 (Optional — verification)
 
-"ready_analysis.dta" is provided directly in this repository, so running this step is not required to proceed to Step 2. It is included so users can independently verify that the data preparation process reproduces the same "ready_analysis.dta" already provided. Run the do-file "01_data_preparation.do" to do so: it imports NUTS3-level European climate data, constructs weather and hazard indicators (heat, flood, drought), pulls in regional GVA and population data from the ARDECO database, and merges everything into a single analysis-ready dataset, "ready_analysis.dta".
+"ready_analysis.dta" is provided directly in this repository, so running this step is not required to proceed to Step 2. It is included so users can independently verify that the data preparation process reproduces the same "ready_analysis.dta" already provided. Run the do-file "01_data_preparation.do" to do so: it imports NUTS3-level weather and hazard indicators (heat, flood, drought), pulls in regional GVA and population data from the ARDECO database, and merges everything into a single analysis-ready dataset, "ready_analysis.dta". The indicators of events are based on the same methodology by Usman et al. (2025). 
 
 ## Step 2 (Impact estimation)
 
