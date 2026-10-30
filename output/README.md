@@ -38,7 +38,7 @@ output_2026/event_data_2026.dta       NUTS3 event classification for summer 2026
 
 Both are provided, so the estimation steps run without any further download.
 Regional GVA (2025) and population (2026) are pulled live from the European
-Commission's ARDECO database, version 2024, inside step 01.
+Commission's ARDECO database, inside step 01.
 
 The NUTS3 climate panel that step 01 reads, `nuts3_climate_full_1990_onward.csv`,
 is 278 MB and is not distributed here. It is derived from the ERA5 reanalysis,
