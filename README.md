@@ -24,3 +24,5 @@ https://github.com/MilesIParker/GoingNUTS
 Kotz, M., F. Kuik, E. Lis, and C. Nickel (2024). Global warming and484
 heat extremes to enhance inflationary pressures. Communications Earth and485
 Environment 5 (116).
+https://www.nature.com/articles/s43247-023-01173-x
+Replication package (Zenodo): https://doi.org/10.5281/zenodo.10183679
