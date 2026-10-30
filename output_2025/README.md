@@ -3,7 +3,7 @@ Replication package for "Estimating the Costs of Extreme Weather in Real Time"
 
 This repository includes replication codes for the paper:
 
-Sehrish Usman, Guzmán González-Torres Fernández, Maximilian Kotz, Friderike Kuik, Eliza Lis, Christiane Nickel, Miles Parker, Mathilde Vallat, "Estimating the Economic Costs of Extreme Weather in Real Time", (Under Review).
+Sehrish Usman, Guzmán González-Torres Fernández, Maximilian Kotz, Friderike Kuik, Eliza Lis, Christiane Nickel, Miles Parker, Mathilde Vallat
 
 The flood, drought, and heatwave impact coefficients used in this package are taken from a companion paper:
 
